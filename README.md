@@ -6,14 +6,12 @@
 
 <br/>
 
-### 🌐 [Portfolio](https://shankarswamy294.github.io/portfolio/)
-
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shankarswamy294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://cabeza-ai.vercel.app/"><img src="https://img.shields.io/badge/Cabeza.ai-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="[https://cabeza-ai.vercel.app/](https://shankarswamy294.github.io/portfolio/)"><img src="https://img.shields.io/badge/Portfolio-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </div>
