@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shankar+Swamy.;Lead+Software+Engineer.;AI+Practitioner.;Builder+of+things." alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logoColor=000&logo=safari&label=" /></a>
+  <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logoColor=fff&logo=safari" /></a>
   <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
   <a href="mailto:shankarswamy294@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
   <a href="https://cabeza-ai.vercel.app/"><img src="https://img.shields.io/badge/Cabeza.ai-6366f1?style=for-the-badge&logoColor=fff" /></a>
