@@ -4,8 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer+%40+bp;AI+Practitioner;8%2B+years+shipping+at+scale;Open+to+global+roles" alt="Typing SVG" />
 
+<br/>
+
+### 🌐 [shankarswamy294.github.io/portfolio](https://shankarswamy294.github.io/portfolio/)
+
+<br/>
+
 <p align="center">
-  <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%231e293b.svg?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shankarswamy294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://cabeza-ai.vercel.app/"><img src="https://img.shields.io/badge/Cabeza.ai-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
