@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer+%40+bp;AI+Practitioner;8%2B+years+shipping+at+scale;Open+to+global+roles" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logoColor=fff&logo=safari" /></a>
-  <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-  <a href="mailto:shankarswamy294@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  <a href="https://cabeza-ai.vercel.app/"><img src="https://img.shields.io/badge/Cabeza.ai-6366f1?style=for-the-badge&logoColor=fff" /></a>
+  <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-%231e293b.svg?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shankarswamy294@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://cabeza-ai.vercel.app/"><img src="https://img.shields.io/badge/Cabeza.ai-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 </div>
@@ -41,15 +41,16 @@ shankar@portfolio ~/  ❯ whoami
 ### ⚡ Tech I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=000" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Claude%20API-6366f1?style=flat-square&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
