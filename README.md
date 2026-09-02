@@ -4,11 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer+%40+bp;AI+Practitioner;8%2B+years+shipping+at+scale;Open+to+global+roles" alt="Typing SVG" />
 
-<br/>
-
 ### 🌐 [Portfolio](https://shankarswamy294.github.io/portfolio/)
-
-<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shankarswamy294/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
