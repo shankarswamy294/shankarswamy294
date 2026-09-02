@@ -6,7 +6,7 @@
 
 <br/>
 
-### 🌐 [shankarswamy294.github.io/portfolio](https://shankarswamy294.github.io/portfolio/)
+### 🌐 [Portfolio](https://shankarswamy294.github.io/portfolio/)
 
 <br/>
 
@@ -32,7 +32,7 @@ shankar@portfolio ~/  ❯ whoami
 
 ---
 
-### 🔥 What I'm building
+###  What I'm building
 
 | Project | Description | Stack |
 |---|---|---|
@@ -43,7 +43,7 @@ shankar@portfolio ~/  ❯ whoami
 
 ---
 
-### ⚡ Tech I reach for
+### Tech I reach for
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,graphql,aws,java,docker,postgres,nextjs&perline=10" />
@@ -51,7 +51,7 @@ shankar@portfolio ~/  ❯ whoami
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=shankarswamy294&show_icons=true&theme=github_dark&count_private=true" />
