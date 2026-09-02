@@ -16,7 +16,7 @@
 ```
 shankar@portfolio ~/  ❯ whoami
 
-  Senior Software Engineer · AI Practitioner
+  Lead Software Engineer · AI Practitioner
   8+ years shipping production systems at scale
   Hyderabad, India · Open to global roles
 
