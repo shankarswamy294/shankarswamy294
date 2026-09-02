@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shankar+Swamy.;Lead+Software+Engineer.;AI+Practitioner.;Builder+of+things." alt="Typing SVG" />
+# Shankar Swamy
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8b949e&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer+%40+bp;AI+Practitioner;8%2B+years+shipping+at+scale;Open+to+global+roles" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://shankarswamy294.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logoColor=fff&logo=safari" /></a>
